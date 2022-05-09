@@ -4,6 +4,9 @@
 
 ### Hi there 👋
 ### My name is Kariuki Abel
+<div id="header" align="center">
+  <img src="https://img.shields.io/twitter/follow/@Nabesh_Riska?style=social" width="100"/>
+</div>
 
 <!--
 **KariukiAbel/KariukiAbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
