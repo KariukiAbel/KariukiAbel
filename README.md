@@ -26,6 +26,7 @@
 ---
 
 ### :man_technologist: About Me :
+:lead Alumni @DSCTtu
 
 
 <!--
