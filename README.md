@@ -26,7 +26,7 @@
 ---
 
 ### :man_technologist: About Me :
-lead Alumni DSCTtu
+lead Alumni <a href"https://github.com/dscttu">DSC Taita Taveta University Chapter</a>
 
 
 <!--
