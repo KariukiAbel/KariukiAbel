@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  ### Hi there 👋
+  ### My name is Kariuki Abel
 </div>
 
-### Hi there 👋
-### My name is Kariuki Abel
 <div id="header" align="center">
- <a href=''https://img.shields.io/twitter/follow/Nabesh_Riska?style=social> <img src="https://img.shields.io/twitter/follow/Nabesh_Riska?style=for-the-badge" width="100"/></a>
+ <img src="https://img.shields.io/twitter/follow/Nabesh_Riska?style=for-the-badge" width="100"/>
 </div>
 
 <!--
