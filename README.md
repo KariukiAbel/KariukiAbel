@@ -5,7 +5,7 @@
 ### Hi there 👋
 ### My name is Kariuki Abel
 <div id="header" align="center">
-  <img src="https://img.shields.io/twitter/follow/@Nabesh_Riska?style=social" width="100"/>
+  <img src="https://img.shields.io/twitter/follow/Nabesh_Riska?style=for-the-badge" width="100"/>
 </div>
 
 <!--
