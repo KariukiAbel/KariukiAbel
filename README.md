@@ -27,7 +27,8 @@
 
 ### :man_technologist: About Me :
 lead Alumni DSC Taita Taveta University Chapter
-<a href"https://github.com/dscttu"></a>
+<a href="https://github.com/dscttu"></a>
+figma config 2022 badge <a href="https://www.figma.com/community/file/1105704186801349012"><a/>
 
 
 <!--
