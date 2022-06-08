@@ -28,6 +28,7 @@
 ### :man_technologist: About Me :
 ### <a href="https://github.com/dscttu">lead Alumni DSC Taita Taveta University Chapter</a>
 ### <a href="https://www.figma.com/community/file/1105704186801349012">figma config 2022 badge<a/>
+### Associate Cloud Engineer by Google Africa Developer Scholarship
 
 
 <!--
